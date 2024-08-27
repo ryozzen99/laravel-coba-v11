@@ -43,6 +43,11 @@
                         <img src="https://source.unsplash.com/random/300x200?sig=<?php echo $i; ?>" alt="Portfolio Image">
                     </div>
                 <?php } ?>
+                <div class="portfolio-item">
+                    <h3>Portfolio Item 46</h3>
+                    <p>Description of portfolio item 46</p>
+                    <img src="https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2023/07/21/9jpg-20230721025949.jpg" alt="Portfolio Image">
+                </div>
             </section>
 
             <!-- contact -->
