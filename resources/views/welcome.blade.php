@@ -46,12 +46,10 @@
                     <img src="https://source.unsplash.com/random/300x200?sig=<?php echo $i; ?>" alt="Portfolio Image">
                 </div>
                 <?php } ?>
-<<<<<<< HEAD
                 <h2>portofolio Arroyan Ilham Nafian</h2>
                 <p> ini adalah portofolio saya.</p>
                 
 
-=======
                 <div class="portfolio-item">
                     <h3>Portfolio Item 12</h3>
                     <p>Description of portfolio item 12</p>
@@ -62,7 +60,6 @@
                     <p>Description of portfolio item 46</p>
                     <img src="https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2023/07/21/9jpg-20230721025949.jpg" alt="Portfolio Image">
                 </div>
->>>>>>> 7dc315aa0a78ce9dde4fd89f2d2a9ff1775d6698
             </section>
 
             <!-- contact -->
