@@ -47,6 +47,8 @@
                 </div>
                 <?php } ?>
                 <br>
+                <h3> Portofolio Item 11</h3>
+                <p>test portofolio 11</p>
                 <div class="portfolio-item">
                     <h3>Portfolio Item 12</h3>
                     <p>Description of portfolio item 12</p>
