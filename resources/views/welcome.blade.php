@@ -60,7 +60,15 @@
                     <p>Description of portfolio item 12</p>
                     <img src="https://api.unsplash.com/search/photos?query=minimal" alt="Portfolio Image">
                 </div>
+<<<<<<< HEAD
 >>>>>>> a3b6c0fb89eb0fe21317deffb2be2a14899f4ef0
+=======
+                <div class="portfolio-item">
+                    <h3>Portfolio Item 46</h3>
+                    <p>Description of portfolio item 46</p>
+                    <img src="https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2023/07/21/9jpg-20230721025949.jpg" alt="Portfolio Image">
+                </div>
+>>>>>>> 7dc315aa0a78ce9dde4fd89f2d2a9ff1775d6698
             </section>
 
             <!-- contact -->
