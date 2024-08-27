@@ -43,6 +43,10 @@
                         <img src="https://source.unsplash.com/random/300x200?sig=<?php echo $i; ?>" alt="Portfolio Image">
                     </div>
                 <?php } ?>
+                <h2>portofolio Arroyan Ilham Nafian</h2>
+                <p> ini adalah portofolio saya.</p>
+                
+
             </section>
 
             <!-- contact -->
