@@ -46,6 +46,14 @@
                     <img src="https://source.unsplash.com/random/300x200?sig=<?php echo $i; ?>" alt="Portfolio Image">
                 </div>
                 <?php } ?>
+                <br>
+                <h3> Portofolio Item 11</h3>
+                <p>test portofolio 11</p>
+                <div class="portfolio-item">
+                    <h3>Portfolio Item 12</h3>
+                    <p>Description of portfolio item 12</p>
+                    <img src="https://api.unsplash.com/search/photos?query=minimal" alt="Portfolio Image">
+                </div>
             </section>
 
             <!-- contact -->
